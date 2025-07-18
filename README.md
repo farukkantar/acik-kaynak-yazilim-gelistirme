@@ -1,5 +1,5 @@
-# odev-2
-açık kaynak yazılım geliştirme odev 2
+# açık kaynak yazılım geliştirme 
+açık kaynak yazılım geliştirme 
 
 ## chmod +x script.sh
 ./script.sh kullanici grup yetki dosya
